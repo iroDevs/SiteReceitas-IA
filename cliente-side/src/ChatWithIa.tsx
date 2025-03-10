@@ -28,6 +28,7 @@ export default function ChatWithIa() {
 
     return (
         <>
+        
         {
             showChat && (
                 <div className="chat-ia m-3">
